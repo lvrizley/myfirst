@@ -1,4 +1,4 @@
-<h3>Welcome to my Github</h3>
+<h3>Welcome to my Gzzzithub</h3>
 <script>
  <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
